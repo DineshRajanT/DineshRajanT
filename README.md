@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![](https://github.com/DineshRajanT/DineshRajanT/Import.io_quote-image5-170525.jpg)
 - 🔭 I’m currently working on Face Recognition,Image Aesthetics
 - 🌱 I’m currently learning PyTorch,FastAI,NodeJS
 - 👯 I’m looking to collaborate on OpenSourced projects on ML/DL
