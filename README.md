@@ -27,5 +27,5 @@
 <a href="https://stackoverflow.com/users/dineshrajan t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dineshrajan t" height="20" width="20" /></a>
 <a href="https://kaggle.com/dineshrajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dineshrajan" height="20" width="20" /></a>
 <a href="https://instagram.com/sigmoid_one" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sigmoid_one" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/dotphie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dotphie" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/dotphiE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dotphie" height="20" width="20" /></a>
 </p>
