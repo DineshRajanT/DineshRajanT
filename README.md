@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Rajan</h1>
-<h3 align="center">A passionate Deep learning engineer and a guy who loves to play with DaTa</h3>
+<h3 align="center">There is nothing called Passion! Just likes and dislikes...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshrajant" alt="dineshrajant" /> </p>
 
